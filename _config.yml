@@ -31,6 +31,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+plugins:
+  - jekyll-feed
 # remote_theme: CloudCannon/treat-jekyll-template
 
 # Exclude from processing.
