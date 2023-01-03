@@ -11,6 +11,7 @@ title: Family Recipes
 description: Thomas, Mickelson, and Bensen family recipes! Really just the recipes that Jack's interested and anything you request. Let me know if you have anything I should add!
 baseurl: "/"
 url: "https://recipes.jackthomas.io"
+permalink: :title.html
 
 # Build settings
 theme: minima
