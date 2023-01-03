@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Danish Puff"
+author: "Jack Thomas"
 slug: danish-puff
 date: 2023-01-02 21:39:00 -0600
 categories: [dessert, pastries, holiday]
@@ -55,3 +56,13 @@ categories: [dessert, pastries, holiday]
 ## Source
 
 Mom originally had two recipes for this: one from Tim and another from Jamie. I combined the most logical parts of both recipes into this recipe. This is ostensibly an old Mickelson family recipe. That being said, this "family recipe" is strikingly similar to this Betty Crocker [recipe](https://www.bettycrocker.com/recipes/danish-puff/eb777096-ceca-4e87-9d23-227659d088cd). The only difference really is the glaze.
+
+## Comments
+
+###### 2020-03-24 (Jack)
+
+I wonder if I could bake this in either a bread pan or in muffin tins for a more consistent shape.
+
+###### 2018-07-28 (Jack)
+
+The two tablespoons of water that the crust calls for is probably enough. Just be more patient and continue mixing! 
