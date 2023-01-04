@@ -31,19 +31,3 @@ categories: [dessert, "pies and tarts", "pie fillings"]
 ## Source
 
 [Bon Appétit](https://www.bonappetit.com/recipe/best-blueberry-pie) for recipe, with temperatures from [Serious Eats](https://www.seriouseats.com/recipes/2016/07/best-blueberry-pie-dessert-recipe.html)
-
-## Comments
-
-###### 2019-07-04 (Jack)
-
-I made this again a few nights ago, but I made it my new deep dish (very deep dish!) glass pie pans. The bottom crust wasn't baked enough, so I should probably par-bake next time. I should also make more of the crust recipe since there wasn't quite enough crust for such a deep pie pan.
-
-Otherwise it was great! The filling turned out the same, so it was quite tasty. However, now that I'm using the deep dish pie pans, I could probably do the entire 4 pint recipe instead of cutting down to 3.
-
-###### 2019-06-15 (Jack)
-
-I made this last night (2019-06-15) based on [Bon Appétit's filling](https://www.bonappetit.com/recipe/best-blueberry-pie) with Smitten Kitchen's pie crust [ingredients](https://smittenkitchen.com/2019/03/extra-flaky-pie-crust/) and [method](https://smittenkitchen.com/2008/11/pie-crust-102-all-butter-really-flaky-pie-dough/). I made two pies with six pints blueberries total. That is, I multiplied the original filling recipe by 1.5x (split evenly between the two pies) and made the crust recipe twice. The crust recipe is now captured in a [separate Trello card](https://trello.com/c/oZw2q3rP/261-crust).
-
-I baked the pies on two separate racks (i.e. one above the other) instead of next to each other due to pan size constraints. Because of this, I swapped them every time that I checked on them. (I checked at the 25, 50, 60, 70, 80, and 90 minute marks). When baking the pies, I accidentally missed the note about dropping the oven temperature to 375 until the 25 minute mark! This meant that the crusts were already pretty much finished browning well before they were supposed to be. To combat over-browning, I covered the pies completely in foil for the remaining baking time and corrected the temperature to 375. The inside took the entire 90 minutes.
-
-Even though I technically only used three quarters of the amount of filling that [Bon Appétit](https://www.bonappetit.com/recipe/best-blueberry-pie) suggested, there was plenty of filling. Both pies turned out excellent! (I gave half a pie to Mick Aase, gave another half to my parents, and saved an entire pie for Jessi and I.)
