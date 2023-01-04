@@ -35,7 +35,7 @@ categories: [desserts, cakes]
 
 I made this (with Mom) last night for their housewarming shindig (with John and Michelle Twohig, Kris and Mick Aase, and Kyle and Katie Viesselmann (sp?)). It was definitely a big hit. However, we felt that we overbaked it a little bit. That is, it was a bit dry. You should check it much earlier than the 40 min. that it calls for, so I added a note to the directions indicating as much.
 
-I also always forget how flat the chocolate raspberry torte is. Perhaps it would be interesting to use two 6" cake pans instead (or double the recipe) and make this a layered cake. |Mom doesn't think this is a good idea, and she's probably right.
+I also always forget how flat the chocolate raspberry torte is. Perhaps it would be interesting to use two 6" cake pans instead (or double the recipe) and make this a layered cake. Mom doesn't think this is a good idea, and she's probably right.
 
 ## Source
 
