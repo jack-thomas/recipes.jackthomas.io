@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Blueberry Pie"
+title: "Apple Nut Dessert"
 author: "Jack Thomas"
-slug: blueberry-pie
+slug: apple-nut-dessert
 date: 2023-01-03 19:03:00 -0600
 categories: [dessert, cakes]
 ---
