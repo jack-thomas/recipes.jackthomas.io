@@ -5,7 +5,7 @@ author: "Jack Thomas"
 slug: mac-and-cheese
 categories:
   - category:
-    - entrées
+    - entrees
     - pasta and sauce
 ---
 

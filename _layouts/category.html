@@ -7,7 +7,11 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  {{ content }}
+  {%- assign content = page.content | strip_newlines -%}
+  {%- if content != "" -%}
+    <h2 class="page-heading">Subcategories</h2>
+    {{page.content}}
+  {%- endif -%}
 
   {%- assign category_size = page.category.size | minus: 1 -%}
   {%- assign posts = site.posts | sort: 'title' -%}
@@ -29,8 +33,16 @@ layout: default
     {%- endfor -%}
     {%- if include_post -%}{%- assign valid_posts = valid_posts | push: post -%}{%- endif -%}
   {%- endfor -%}
-  {%- for post in valid_posts -%}
-    {{ post.title }}<br>
-  {%- endfor -%}
+
+  <h2 class="page-heading">All Recipes</h2>
+  <ul class="post-list">
+    {%- for post in valid_posts -%}
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    {%- endfor -%}
+  </ul>
 
 </article>
