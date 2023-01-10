@@ -10,10 +10,13 @@ layout: default
 <!--- https://github.com/jekyll/minima/commit/f3de471bf38a14c5025319fdd541c30fe9f6916f --->
 
 <div class="home">
+  <!--- The following snippet is based on --->
+  <!--- https://stackoverflow.com/a/39923339 --->
   {% for post in sortedPosts %}
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   {% for post in sortedPosts | sort: 'title' %}
+  <!--- End snippet --->
 
   {{ content }}
 
