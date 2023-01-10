@@ -31,11 +31,10 @@ layout: default
     <ul class="post-list">
       {%- for post in posts -%}
       <li>
-        {%- assign categories = post.categories -%}
-        {%- if categories[0].category -%}
-        <span class="post-meta">{%- for category in categories -%}{{ category["category"][0] }},&nbsp;{%- endfor -%}</span>
+        {%- if post.categories[0].category -%}
+        <span class="post-meta">{%- for category in post.categories -%}{{ category["category"][0] }},&nbsp;{%- endfor -%}</span>
         {%- else -%}
-        <span class="post-meta">{%- for category in categories -%}{{ category[0] }},&nbsp;{%- endfor -%}</span>
+        <span class="post-meta">{%- for category in post.categories -%}{{ category }},&nbsp;{%- endfor -%}</span>
         {%- endif -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
