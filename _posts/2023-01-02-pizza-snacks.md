@@ -3,8 +3,11 @@ layout: post
 title: "Pizza Snacks"
 author: "Jack Thomas"
 slug: pizza-snacks
-date: 2023-01-02 22:03:00 -0600
-categories: [appetizers, holiday]
+categories:
+  - category:
+    - appetizers
+  - category:
+    - holiday
 ---
 
 ## Ingredients

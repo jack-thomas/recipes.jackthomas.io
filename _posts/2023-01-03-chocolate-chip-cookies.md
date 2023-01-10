@@ -3,8 +3,10 @@ layout: post
 title: "Chocolate Chip Cookies"
 author: "Jack Thomas"
 slug: chocolate-chip-cookies
-date: 2023-01-03 19:23:00 -0600
-categories: [desserts, "cookies and bars"]
+categories:
+  - category:
+    - desserts
+    - cookies and bars
 ---
 
 ## Ingredients

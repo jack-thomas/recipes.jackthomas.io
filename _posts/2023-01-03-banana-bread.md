@@ -3,8 +3,13 @@ layout: post
 title: "Banana Bread"
 author: "Jack Thomas"
 slug: banana-bread
-date: 2023-01-03 19:14:00 -0600
-categories: ["breads and quick breads", "quick breads"]
+categories:
+  - category:
+    - breads and quick breads
+    - quick breads
+  - category:
+    - desserts
+    - quick breads
 ---
 
 ## Ingredients

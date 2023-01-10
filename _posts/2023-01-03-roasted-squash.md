@@ -3,8 +3,11 @@ layout: post
 title: "Roasted Squash"
 author: "Jack Thomas"
 slug: roasted-squash
-date: 2023-01-03 19:09:00 -0600
-categories: [appetizers]
+categories:
+  - category:
+    - appetizers
+  - category:
+    - holiday
 ---
 
 ## Ingredients

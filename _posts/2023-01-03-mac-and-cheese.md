@@ -3,8 +3,10 @@ layout: post
 title: "Mac and Cheese"
 author: "Jack Thomas"
 slug: mac-and-cheese
-date: 2023-01-03 19:19:00 -0600
-categories: ["entrées"]
+categories:
+  - category:
+    - entrées
+    - pasta and sauce
 ---
 
 ## Ingredients

@@ -32,7 +32,7 @@ layout: default
       {%- for post in posts -%}
       {%- assign categories = post.categories -%}
       <li>
-        <span class="post-meta">{%- for category in categories -%}{{ category }}{%- endfor -%}</span>
+        <span class="post-meta">{%- for category in categories -%}{{ category["category"][0] }}{%- endfor -%}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}

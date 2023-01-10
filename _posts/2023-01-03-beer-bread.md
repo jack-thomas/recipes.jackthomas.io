@@ -3,8 +3,9 @@ layout: post
 title: "Beer Bread"
 author: "Jack Thomas"
 slug: beer-bread
-date: 2023-01-03 19:05:00 -0600
-categories: ["breads and quick breads"]
+categories:
+  - category:
+    - breads and quick breads
 ---
 
 ## Ingredients

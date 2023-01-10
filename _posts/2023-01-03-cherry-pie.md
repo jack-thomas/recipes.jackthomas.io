@@ -3,8 +3,13 @@ layout: post
 title: "Cherry Pie"
 author: "Jack Thomas"
 slug: cherry-pie
-date: 2023-01-03 11:42:00 -0600
-categories: [dessert, "pies and tarts", "pie fillings"]
+categories:
+  - category:
+    - desserts
+    - pies and tarts
+    - pie fillings
+  - category:
+    - holiday
 ---
 
 ## Ingredients

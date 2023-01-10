@@ -3,8 +3,13 @@ layout: post
 title: "Zucchini Bread"
 author: "Jack Thomas"
 slug: zucchini-bread
-date: 2023-01-03 19:17:00 -0600
-categories: ["breads and quick breads", "quick breads"]
+categories:
+  - category:
+    - breads and quick breads
+    - quick breads
+  - category:
+    - desserts
+    - quick breads
 ---
 
 ## Ingredients

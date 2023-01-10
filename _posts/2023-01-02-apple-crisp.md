@@ -3,8 +3,11 @@ layout: post
 title: "Apple Crisp"
 author: "Jack Thomas"
 slug: apple-crisp
-date: 2023-01-02 21:59:00 -0600
-categories: [dessert, "pies and tarts", "pie adjacent"]
+categories:
+  - category:
+    - desserts
+    - pies and tarts
+    - pie adjacent
 ---
 
 ## Ingredients

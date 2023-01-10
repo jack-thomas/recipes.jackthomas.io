@@ -3,8 +3,10 @@ layout: post
 title: "Chocolate Raspberry Torte"
 author: "Jack Thomas"
 slug: chocolate-raspberry-torte
-date: 2023-01-03 19:25:00 -0600
-categories: [desserts, cakes]
+categories:
+  - category:
+    - desserts
+    - cakes
 ---
 
 ## Ingredients

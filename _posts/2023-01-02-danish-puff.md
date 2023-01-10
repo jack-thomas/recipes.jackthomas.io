@@ -3,8 +3,12 @@ layout: post
 title: "Danish Puff"
 author: "Jack Thomas"
 slug: danish-puff
-date: 2023-01-02 21:39:00 -0600
-categories: [dessert, pastries, holiday]
+categories:
+  - category:
+    - desserts
+    - pastries
+  - category:
+    - holiday
 ---
 
 ## Crust

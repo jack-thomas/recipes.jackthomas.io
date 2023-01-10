@@ -3,8 +3,13 @@ layout: post
 title: "Apple Pie (Lisa Grandma)"
 author: "Jack Thomas"
 slug: apple-pie-lisa-grandma
-date: 2023-01-02 21:51:00 -0600
-categories: [dessert, "pies and tarts", "pie fillings", holiday]
+categories:
+  - category:
+    - desserts
+    - pies and tarts
+    - pie fillings
+  - category:
+    - holiday
 ---
 
 ## Ingredients

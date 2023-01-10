@@ -3,8 +3,10 @@ layout: post
 title: "Apple Nut Dessert"
 author: "Jack Thomas"
 slug: apple-nut-dessert
-date: 2023-01-03 19:03:00 -0600
-categories: [dessert, cakes]
+categories:
+  - category:
+    - desserts
+    - cakes
 ---
 
 ## Ingredients

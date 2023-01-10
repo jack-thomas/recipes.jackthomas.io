@@ -3,8 +3,10 @@ layout: post
 title: "Café Latte's Turtle Cake"
 author: "Jack Thomas"
 slug: cafe-latte-turtle-cake
-date: 2023-01-03 19:29:00 -0600
-categories: [desserts, cakes]
+categories:
+  - category:
+    - desserts
+    - cakes
 ---
 
 ## Ingredients

@@ -3,8 +3,11 @@ layout: post
 title: "Blueberry Pie"
 author: "Jack Thomas"
 slug: blueberry-pie
-date: 2023-01-03 19:01:00 -0600
-categories: [dessert, "pies and tarts", "pie fillings"]
+categories:
+  - category:
+    - desserts
+    - pies and tarts
+    - pie fillings
 ---
 
 ## Ingredients
