@@ -4,10 +4,7 @@ title: "Apple Crisp"
 author: "Jack Thomas"
 slug: apple-crisp
 categories:
-  - category:
-    - desserts
-    - pies and tarts
-    - pie adjacent
+  - [dessert, pies and tarts, pie-adjacent]
 ---
 
 ## Ingredients
