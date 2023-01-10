@@ -12,10 +12,10 @@ layout: default
 <div class="home">
   <!--- The following snippet is based on --->
   <!--- https://stackoverflow.com/a/39923339 --->
+  {% assign sortedPosts = site.posts | sort: 'title' %} 
   {% for post in sortedPosts %}
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-  {% for post in sortedPosts | sort: 'title' %}
   <!--- End snippet --->
 
   {{ content }}
