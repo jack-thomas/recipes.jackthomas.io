@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  {{ content }}
+
+  {%- assign category_size = page.category.size | minus: 1 -%}
+  {%- assign posts = site.posts | sort: 'title' -%}
+  {%- assign valid_posts = site.emptyArray -%}
+  {%- for post in posts -%}
+    {%- assign include_post = false -%}
+    {%- assign post_categories = site.emptyArray -%}
+    {%- for category in post.categories -%}
+        {%- if category.category -%}
+          {%- if category_size == 0 -%}
+            {%- if page.category[0] == category.category[0] -%}{%- assign include_post = true -%}{%- endif -%}
+          {%- else -%}
+            {%- for counter in (0..category_size) -%}
+              {%- assign post_categories = post_categories | push: category.category[counter] -%}
+            {%- endfor -%}
+            {%- if page.category == post_categories -%}{%- assign include_post = true -%}{%- endif -%}
+          {%- endif -%}
+        {%- endif -%}
+    {%- endfor -%}
+    {%- if include_post -%}{%- assign valid_posts = valid_posts | push: post -%}{%- endif -%}
+  {%- endfor -%}
+  {%- for post in valid_posts -%}
+    {{ post.title }}<br>
+  {%- endfor -%}
+
+</article>
