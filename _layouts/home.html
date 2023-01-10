@@ -17,35 +17,30 @@ layout: default
 --->
 
 <div class="home">
-  <!--- The following snippet is based on --->
-  <!--- https://stackoverflow.com/a/39923339 --->
   {% assign posts = site.posts | sort: 'title'%}
-  <!--- End snippet --->
 
   {{ content }}
+  
+  <ul class="post-list">
+    {%- for post in posts -%}
 
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- for post in posts -%}
-      <li>
-        {%- if post.categories[0].category -%}
-        <span class="post-meta">{%- for category in post.categories -%}{{ category["category"][0] }},&nbsp;{%- endfor -%}</span>
-        {%- else -%}
-        <span class="post-meta">{%- for category in post.categories -%}{{ category }},&nbsp;{%- endfor -%}</span>
-        {%- endif -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+    {%- assign categories = site.emptyArray -%}
+    {%- for category in post.categories -%}
+      {%- for subcategory in category["category"][0] -%}
+        {%- assign categories = categories | push: subcategory -%}
       {%- endfor -%}
-    </ul>
-  {%- endif -%}
+    {%- endfor -%}
+
+    <li>
+      <span class="post-meta">
+        {{ categories | join: ", " }}
+      </span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+    {%- endfor -%}
+  </ul>
 </div>
