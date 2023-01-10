@@ -34,7 +34,7 @@ layout: default
         {%- assign categories = post.categories -%}
         {%- if categories[0].category -%}
         <span class="post-meta">{%- for category in categories -%}{{ category["category"][0] }},&nbsp;{%- endfor -%}</span>
-        {%- elsif -%}
+        {%- else -%}
         <span class="post-meta">{%- for category in categories -%}{{ category[0] }},&nbsp;{%- endfor -%}</span>
         {%- endif -%}
         <h3>
