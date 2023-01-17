@@ -34,17 +34,7 @@ categories:
 
 ###### 2022-01-01
 
-Abby and I made a double batch of this today, and we thought that it could have used more of most of the spices. Here's what we used.
-
-- 12 cardamom pods (leave this one the same next time)
-- 2 star anise (use more next time)
-- 12 peppercorns (use more next time, and crush them more next time)
-- 1 cinnamon stick (use 3 next time)
-- 4 cloves (use 6-7 next time)
-- Ground ginger (actually use fresh, probably on the high side, next time)
-- 4 tablespoons of tea (perfect)
-
-We also thought that the sweeter results were better. We used maple syrup, but I think honey might be better next time.
+Abby and I made a double batch of this today, and we thought that it could have used more of most of the spices. The recipe has been updated to reflect what we think we should use next time! We also thought that the sweeter results were better. We used maple syrup, but I think honey might be better next time.
 
 ## Sources
 
