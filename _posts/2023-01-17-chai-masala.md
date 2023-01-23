@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chai Masala"
+title: "Masala Chai"
 author: "Jack Thomas"
 slug: chai-masala
 categories:
