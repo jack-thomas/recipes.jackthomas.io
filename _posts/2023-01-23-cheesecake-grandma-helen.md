@@ -3,6 +3,11 @@ layout: post
 title: "Cheesecake (Grandma Helen's)"
 author: "Jack Thomas"
 slug: cheesecake-grandma-helen
+categories:
+  - category:
+    - desserts
+    - cakes
+    - cheesecakes
 ---
 
 ## Ingredients
