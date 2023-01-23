@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grandma Helen's Cheesecake"
+title: "Cheesecake (Grandma Helen's)"
 author: "Jack Thomas"
 slug: cheesecake-grandma-helen
 ---
