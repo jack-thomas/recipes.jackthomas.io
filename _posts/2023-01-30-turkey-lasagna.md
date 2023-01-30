@@ -6,6 +6,7 @@ slug: turkey-lasagna
 categories:
   - category:
     - entrees
+    - pasta and sauce
 ---
 
 ## Ingredients
