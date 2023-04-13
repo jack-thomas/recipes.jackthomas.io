@@ -59,7 +59,9 @@ categories:
 
 ## Source
 
-Mom originally had two recipes for this: one from Tim and another from Jamie. I combined the most logical parts of both recipes into this recipe. This is ostensibly an old Mickelson family recipe. That being said, this "family recipe" is strikingly similar to this Betty Crocker [recipe](https://www.bettycrocker.com/recipes/danish-puff/eb777096-ceca-4e87-9d23-227659d088cd). The only difference really is the glaze.
+Tim Mickelson > Jodi Thomas > Jack Thomas (heavily rewritten)
+
+This is ostensibly an old Mickelson family recipe. That being said, this "family recipe" is strikingly similar to this Betty Crocker [recipe](https://www.bettycrocker.com/recipes/danish-puff/eb777096-ceca-4e87-9d23-227659d088cd). The only difference really is the glaze.
 
 ## Comments
 

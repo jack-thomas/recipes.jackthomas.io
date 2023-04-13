@@ -41,4 +41,4 @@ categories:
 
 ## Source
 
-Jack's mom
+Jodi Thomas

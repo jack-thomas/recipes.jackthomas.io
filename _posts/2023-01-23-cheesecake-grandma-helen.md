@@ -44,4 +44,4 @@ categories:
 
 ## Source
 
-Grandma Helen (Holly Macke's grandma?) via Jack's mom
+Grandma Helen (Holly Macke's grandma?) > Jodi Thomas > Jack Thomas

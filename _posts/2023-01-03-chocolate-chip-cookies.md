@@ -31,4 +31,4 @@ categories:
 
 ## Source
 
-Crisco [recipe](https://crisco.com/recipe/ultimate-chocolate-chip-cookies/) via Jodi Thomas
+[Crisco](https://crisco.com/recipe/ultimate-chocolate-chip-cookies/) > Jodi Thomas

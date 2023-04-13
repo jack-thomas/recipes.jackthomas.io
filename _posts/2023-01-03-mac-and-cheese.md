@@ -11,6 +11,7 @@ categories:
 
 ## Ingredients
 
+- 1 lb (1 box) uncooked elbow macaroni
 - 1 cup sour cream
 - 2 (10 3/4 oz) cans condensed cheddar cheese soup
 - 2 cups milk
@@ -18,15 +19,12 @@ categories:
 - 5 cups grated cheese (~20oz)
 - 1 tsp dry mustard
 - 1 tsp black pepper (or more, always more)
-- 1 lb (1 box) uncooked elbow macaroni
 
 ## Directions
 
-1. Boil water in a large pot. Once the water is boiling, add salt.
-2. Combine all ingredients except the macaroni in a crock pot set to high. Cover and heat up while the macaroni boils, stirring occasionally. You want the cheese to be mostly melted when you add the macaroni.
-3. Once the cheese sauce is nearing completion, boil the macaroni in water for 1 min less than what the package says for al dente. (Do not overcook or you'll have soggy noodles.) 
-4. Once the macaroni is done boiling, transfer it directly to the cheese mixture. (Just the noodles, obviously. Don't transfer the boiling water!)
-5. Drain the macaroni, return it to the pot, and add the cheese sauce. Stir to combine, and cook for a few minutes.
+1. Boil water in a large pot. Once the water is boiling, add salt. Boil the macaroni in water for 1 min less than what the package says for al dente. (Do not overcook or you'll have soggy noodles.)
+2. Meanwhile, combine all ingredients except the macaroni in a pot. Set over medium heat, and cook until everything is melted.
+3. Drain the pasta and combine with sauce.
 
 ## Notes
 
@@ -36,7 +34,7 @@ categories:
 
 ## Source
 
-Originally from Jodi Thomas, but heavily rewritten with updated method and a whole box of macaroni
+Jodi Thomas > Jack Thomas (heavily rewritten with simplified method and a whole box of macaroni)
 
 ## Comments
 

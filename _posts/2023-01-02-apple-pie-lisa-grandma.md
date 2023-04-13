@@ -32,7 +32,7 @@ categories:
 
 ## Source
 
-Lisa Grandma (Jack's mom's mom) via Jack's mom
+Lisa Grandma > Jodi Thomas > Jack Thomas
 
 ## Comments
 
