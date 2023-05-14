@@ -19,4 +19,6 @@ categories:
 
 ## Source
 
-Trial and error. The important thing here is the grind setting and the ratio.
+Jack Thomas
+
+This recipe was basically developed via trial and error. The important thing here is the grind setting and the ratio.
