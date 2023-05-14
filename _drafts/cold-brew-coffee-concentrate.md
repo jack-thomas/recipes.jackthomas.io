@@ -13,6 +13,8 @@ categories:
 - 4 oz coarsely ground coffee
 - 4 cups water
 
+Hmm... [Peace Coffee](https://www.peacecoffee.com/learn/brew-guides/cold-press/) suggests 12oz coffee to 8 cups water (3:2). My previous ratio was 1:1.
+
 ## Directions
 
 1. Steep for ~20 hours.
