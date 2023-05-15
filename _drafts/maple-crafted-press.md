@@ -19,7 +19,7 @@ categories:
 
 - 3/4 cup [cold brew concentrate](/cold-brew-coffee-concentrate.html)
 - 3/4 cup milk
-- 2 Tablespoons maple syrup (more?)
+- 2 Tablespoons maple syrup
 
 ## Directions
 
