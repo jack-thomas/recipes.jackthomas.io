@@ -8,13 +8,18 @@ categories:
     - drinks
 ---
 
-## Ingredients
+## Current Ingredients (2023-05-15)
 
 - 3/4 cup [cold brew concentrate](/cold-brew-coffee-concentrate.html)
-- 1/2 cup water (milk?)
-- 2 Tablespoons cream (skip with milk?)
+- 1/2 cup water
+- 1/4 cup cream
+- 3 Tablespoons maple syrup
+
+## Expected Ingredients
+
+- 3/4 cup [cold brew concentrate](/cold-brew-coffee-concentrate.html)
+- 3/4 cup milk
 - 2 Tablespoons maple syrup (more?)
-- 1/4 teaspoon salt (currently omitted, but should probably be added back in)
 
 ## Directions
 
@@ -26,4 +31,4 @@ categories:
 
 ## Source
 
-Jack Thomas (loosely inspired by [Cass Clay Cooking](https://cassclaycooking.com/copycat-iced-crafted-press-blended-cold-press/#recipe))
+Jack Thomas. This recipe is intended to mimic Caribou Coffee's Iced Crafted Press. I usually order it with caramel flavoring, but obviously I've replaced that with maple syrup here.
