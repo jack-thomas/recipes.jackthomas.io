@@ -6,6 +6,8 @@ slug: chicken-enchiladas
 categories:
   - category:
     - entrees
+  - category:
+    - healthy
 ---
 
 ## Ingredients

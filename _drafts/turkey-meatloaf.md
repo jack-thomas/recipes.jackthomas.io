@@ -6,6 +6,8 @@ slug: turkey-meatloaf
 categories:
   - category:
     - entrees
+  - category:
+    - healthy
 ---
 
 ## Ingredients

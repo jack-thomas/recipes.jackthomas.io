@@ -7,6 +7,8 @@ categories:
   - category:
     - appetizers
   - category:
+    - healthy
+  - category:
     - holiday
 ---
 

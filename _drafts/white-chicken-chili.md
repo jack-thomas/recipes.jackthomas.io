@@ -6,6 +6,8 @@ slug: white-chicken-chili
 categories:
   - category:
     - entrees
+  - category:
+    - healthy
 ---
 
 ## Ingredients

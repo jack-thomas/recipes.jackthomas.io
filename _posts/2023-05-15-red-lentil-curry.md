@@ -6,6 +6,11 @@ slug: red-lentil-curry
 categories:
   - category:
     - entrees
+  - category:
+    - healthy
+  - category:
+    - vegetarian
+    - vegan
 ---
 
 ## Ingredients (Double Batch)

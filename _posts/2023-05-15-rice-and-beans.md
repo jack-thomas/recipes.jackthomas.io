@@ -7,6 +7,11 @@ home_exclude: exclude
 categories:
   - category:
     - entrees
+  - category:
+    - healthy
+  - category:
+    - vegetarian
+    - vegan
 ---
 
 ## Ingredients

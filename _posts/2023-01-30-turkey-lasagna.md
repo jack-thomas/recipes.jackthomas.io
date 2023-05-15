@@ -7,6 +7,8 @@ categories:
   - category:
     - entrees
     - pasta and sauce
+  - category:
+    - healthy
 ---
 
 ## Ingredients
