@@ -6,6 +6,7 @@ slug: cold-brew-coffee-concentrate
 categories:
   - category:
     - drinks
+    - coffee
 ---
 
 ## Ingredients

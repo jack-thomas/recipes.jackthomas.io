@@ -6,6 +6,7 @@ slug: maple-crafted-press
 categories:
   - category:
     - drinks
+    - coffee
 ---
 
 ## Current Ingredients (2023-05-15)
