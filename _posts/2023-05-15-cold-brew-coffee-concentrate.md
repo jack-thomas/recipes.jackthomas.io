@@ -14,8 +14,6 @@ categories:
 - 4 oz coarsely ground coffee
 - 4 cups water
 
-Hmm... 
-
 ## Directions
 
 1. Steep for ~20 hours.
