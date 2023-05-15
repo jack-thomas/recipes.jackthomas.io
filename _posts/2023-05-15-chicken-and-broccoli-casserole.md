@@ -30,4 +30,4 @@ So... This isn't actually chicken pot pie. It's "chicken and broccoli casserole"
 
 ## Source
 
-[Betty Crocker](https://www.bettycrocker.com/recipes/chicken-and-broccoli-casserole-with-cheesy-biscuit-topping/df01fdae-1980-40f0-887a-de5f90fae308)
+[Betty Crocker](https://www.bettycrocker.com/recipes/chicken-and-broccoli-casserole-with-cheesy-biscuit-topping/df01fdae-1980-40f0-887a-de5f90fae308) > Jodi Thomas
