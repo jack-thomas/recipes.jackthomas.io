@@ -3,6 +3,7 @@ layout: post
 title: "Maple Crafted Press"
 author: "Jack Thomas"
 slug: maple-crafted-press
+home_exclude: exclude
 categories:
   - category:
     - drinks

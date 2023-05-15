@@ -3,6 +3,7 @@ layout: post
 title: "Masala Chai"
 author: "Jack Thomas"
 slug: chai-masala
+home_exclude: exclude
 categories:
   - category:
     - drinks

@@ -3,6 +3,7 @@ layout: post
 title: "Cold Brew Coffee Concentrate"
 author: "Jack Thomas"
 slug: cold-brew-coffee-concentrate
+home_exclude: exclude
 categories:
   - category:
     - drinks

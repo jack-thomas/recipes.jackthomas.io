@@ -17,9 +17,13 @@ layout: default
 --->
 
 <div class="home">
-  {%- assign posts = site.posts | sort: 'title' -%}
+  <h1 class="post-title p-name">Favorites</h1>
 
-  {{ content }}
+  <div class="post-content e-content" itemprop="articleBody">
+    This page only includes the recipes that I think you're likely to be looking for. There are more under <a href="/all/">All Recipes</a> or in the <a href="/categories/">Categories</a>!
+  </div>
+
+  {%- assign posts = site.posts | sort: 'title' | where_exp: "item", "item.home_exclude != 'exclude'" -%}
   
   <ul class="post-list">
     {%- for post in posts -%}

@@ -3,6 +3,7 @@ layout: post
 title: "Cold Brew Iced Tea"
 author: "Jack Thomas"
 slug: cold-brew-iced-tea
+home_exclude: exclude
 categories:
   - category:
     - drinks

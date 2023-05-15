@@ -3,6 +3,7 @@ layout: post
 title: "Alfredo Sauce (Americanized a la Olive Garden)"
 author: "Jack Thomas"
 slug: alfredo-american
+home_exclude: exclude
 categories:
   - category:
     - entrees

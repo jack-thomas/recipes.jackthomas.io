@@ -3,6 +3,7 @@ layout: post
 title: "Rice and Beans"
 author: "Jack Thomas"
 slug: rice-and-beans
+home_exclude: exclude
 categories:
   - category:
     - entrees

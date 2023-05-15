@@ -3,6 +3,7 @@ layout: post
 title: "Creamy Cajun Chicken Pasta"
 author: "Jack Thomas"
 slug: creamy-cajun-chicken-pasta
+home_exclude: exclude
 categories:
   - category:
     - entrees

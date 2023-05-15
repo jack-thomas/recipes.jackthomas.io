@@ -17,8 +17,9 @@ permalink: :title.html
 theme: minima
 
 # Header pages
-header_pages: 
+header_pages:
   - about.md
+  - all.md
   - categories.md
 
 # Exclude from processing.
