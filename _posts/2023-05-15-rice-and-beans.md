@@ -32,4 +32,4 @@ categories:
 
 ## Source
 
-Katherine Godeen > Abby Bensen > Jack Thomas
+Katherine Godeen > Abby Bensen > Jack Thomas. Originally titled "Vegan Beans and Rice."

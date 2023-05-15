@@ -31,4 +31,4 @@ categories:
 
 ## Source
 
-Cooking Light (November/December 1996) > Jodi Thomas. Apparently it's called "Cheddar Chicken Chowder" rather than "Chicken Cheddar Chowder," but whatever.
+Cooking Light (November/December 1996) > Jodi Thomas. Originally titled "Cheddar Chicken Chowder."
