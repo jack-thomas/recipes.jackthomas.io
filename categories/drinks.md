@@ -5,3 +5,4 @@ category: [drinks]
 ---
 
 <h3><a class="post-link" href="/categories/drinks/coffee">Coffee</a></h3>
+<h3><a class="post-link" href="/categories/drinks/tea">Tea</a></h3>

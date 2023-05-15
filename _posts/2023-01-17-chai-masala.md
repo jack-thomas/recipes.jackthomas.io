@@ -6,6 +6,7 @@ slug: chai-masala
 categories:
   - category:
     - drinks
+    - tea
 ---
 
 ## Ingredients

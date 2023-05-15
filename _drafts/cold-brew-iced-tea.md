@@ -6,6 +6,7 @@ slug: cold-brew-iced-tea
 categories:
   - category:
     - drinks
+    - tea
 ---
 
 ## Ingredients
