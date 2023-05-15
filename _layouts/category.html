@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article class="post">
 
   <header class="post-header">
@@ -13,25 +14,20 @@ layout: default
     {{page.content}}
   {%- endif -%}
 
-  {%- assign category_size = page.category.size | minus: 1 -%}
   {%- assign posts = site.posts | sort: 'title' -%}
   {%- assign valid_posts = site.emptyArray -%}
   {%- for post in posts -%}
-    {%- assign include_post = false -%}
-    {%- assign post_categories = site.emptyArray -%}
-    {%- for category in post.categories -%}
-        {%- if category.category -%}
-          {%- if category_size == 0 -%}
-            {%- if page.category[0] == category.category[0] -%}{%- assign include_post = true -%}{%- endif -%}
-          {%- else -%}
-            {%- for counter in (0..category_size) -%}
-              {%- assign post_categories = post_categories | push: category.category[counter] -%}
-            {%- endfor -%}
-            {%- if page.category == post_categories -%}{%- assign include_post = true -%}{%- endif -%}
-          {%- endif -%}
+    {%- for post_category in post.categories -%}
+      {%- assign post_category_limited = site.emptyArray -%}
+      {%- if post_category.category -%}
+        {%- for post_category_entry in post_category.category limit:page.category.size -%}
+          {%- assign post_category_limited = post_category_limited | push: post_category_entry -%}
+        {%- endfor -%}
+        {%- if post_category_limited == page.category -%}
+          {%- assign valid_posts = valid_posts | push: post -%}
         {%- endif -%}
+      {%- endif -%}
     {%- endfor -%}
-    {%- if include_post -%}{%- assign valid_posts = valid_posts | push: post -%}{%- endif -%}
   {%- endfor -%}
 
   <h2 class="page-heading">All Recipes</h2>
