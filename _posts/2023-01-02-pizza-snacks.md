@@ -8,6 +8,7 @@ categories:
     - appetizers
   - category:
     - holiday
+    - christmas
 ---
 
 ## Ingredients

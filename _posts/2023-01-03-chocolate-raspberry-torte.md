@@ -7,6 +7,9 @@ categories:
   - category:
     - desserts
     - cakes
+  - category:
+    - holiday
+    - thanksgiving
 ---
 
 ## Ingredients
