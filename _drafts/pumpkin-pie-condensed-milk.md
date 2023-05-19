@@ -10,6 +10,10 @@ categories:
     - pie fillings
   - category:
     - holiday
+    - christmas
+  - category:
+    - holiday
+    - thanksgiving
 ---
 
 ## Ingredients
