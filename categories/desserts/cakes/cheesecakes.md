@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Pie-Adjacent
+title: Cheesecakes
 category: [desserts, cakes, cheesecakes]
 ---

@@ -6,6 +6,7 @@ slug: jerk-chicken
 categories:
   - category:
     - entrees
+    - chicken entrees
   - category:
     - healthy
 ---

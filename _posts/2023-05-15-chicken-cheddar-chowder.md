@@ -6,6 +6,7 @@ slug: chicken-cheddar-chowder
 categories:
   - category:
     - entrees
+    - chicken entrees
 ---
 
 ## Ingredients

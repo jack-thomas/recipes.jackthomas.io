@@ -8,6 +8,9 @@ categories:
     - entrees
     - pasta and sauce
   - category:
+    - entrees
+    - turkey entrees
+  - category:
     - healthy
 ---
 

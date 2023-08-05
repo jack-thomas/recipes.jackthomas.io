@@ -6,6 +6,7 @@ slug: chicken-and-broccoli-casserole
 categories:
   - category:
     - entrees
+    - chicken entrees
 ---
 
 So... This isn't actually chicken pot pie. It's "chicken and broccoli casserole", but Mom called it chicken pot pie growing up, so that's what I'm calling it here!

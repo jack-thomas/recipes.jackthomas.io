@@ -8,6 +8,9 @@ categories:
   - category:
     - entrees
     - pasta and sauce
+  - category:
+    - entrees
+    - chicken entrees
 ---
 
 ## Ingredients

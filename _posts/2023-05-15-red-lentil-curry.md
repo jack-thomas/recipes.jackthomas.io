@@ -6,6 +6,7 @@ slug: red-lentil-curry
 categories:
   - category:
     - entrees
+    - veggie entrees
   - category:
     - healthy
   - category:
