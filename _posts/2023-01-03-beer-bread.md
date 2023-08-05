@@ -34,5 +34,5 @@ categories:
 
 ###### 2022-11-24 (Jack)
 
-We made this recipe for Thanksgiving 2019 and really liked it!
+We made this recipe for Thanksgiving 2022 and really liked it!
 
