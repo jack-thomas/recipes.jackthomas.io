@@ -10,6 +10,7 @@ categories:
     - healthy
   - category:
     - holiday
+    - thanksgiving
 ---
 
 ## Ingredients

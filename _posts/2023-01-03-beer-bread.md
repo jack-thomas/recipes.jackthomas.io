@@ -6,6 +6,9 @@ slug: beer-bread
 categories:
   - category:
     - breads and quick breads
+  - category:
+    - holiday
+    - thanksgiving
 ---
 
 ## Ingredients

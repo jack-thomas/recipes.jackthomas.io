@@ -9,6 +9,10 @@ categories:
     - pastries
   - category:
     - holiday
+    - christmas
+  - category:
+    - holiday
+    - thanksgiving
 ---
 
 ## Crust
