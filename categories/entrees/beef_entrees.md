@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Beef Entrées
-category: [beef entrees]
+category: [entrees, beef entrees]
 ---

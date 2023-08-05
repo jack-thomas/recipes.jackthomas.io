@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Turkey Entrées
-category: [turkey entrees]
+category: [entrees, turkey entrees]
 ---
