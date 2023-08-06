@@ -34,3 +34,7 @@ categories:
 ## Source
 
 [Bon Appétit](https://www.bonappetit.com/recipe/best-blueberry-pie) for recipe, with temperatures from [Serious Eats](https://www.seriouseats.com/recipes/2016/07/best-blueberry-pie-dessert-recipe.html)
+
+## Alternate Recipes
+
+- [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-blueberry-pie/)
