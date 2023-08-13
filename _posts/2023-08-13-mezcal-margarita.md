@@ -8,6 +8,7 @@ categories:
   - category:
     - drinks
     - cocktails
+    - mezcal cocktails
 ---
 
 ## Ingredients
