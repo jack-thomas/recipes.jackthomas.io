@@ -23,4 +23,4 @@ Combine with ice. Shake. Strain.
 
 ## Source
 
-I took the "Tommy's Margarita" recipe from *Simonson, Robert (2016) Proper Drink, A* but edited it lightly for mezcal.
+I took the "Tommy's Margarita" recipe from *Simonson, Robert (2016) A Proper Drink* but edited it lightly for mezcal.
