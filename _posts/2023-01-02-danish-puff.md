@@ -69,10 +69,10 @@ This is ostensibly an old Mickelson family recipe. That being said, this "family
 
 ## Comments
 
-###### 2020-03-24 (Jack)
+#### 2020-03-24 (Jack)
 
 I wonder if I could bake this in either a bread pan or in muffin tins for a more consistent shape.
 
-###### 2018-07-28 (Jack)
+#### 2018-07-28 (Jack)
 
 The two tablespoons of water that the crust calls for is probably enough. Just be more patient and continue mixing! 

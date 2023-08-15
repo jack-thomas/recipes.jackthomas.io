@@ -37,6 +37,6 @@ Lisa Grandma > Jodi Thomas > Jack Thomas
 
 ## Comments
 
-###### 2019-12-01 (Jack)
+#### 2019-12-01 (Jack)
 
 I made this pie for Thanksgiving 2019. It turned out excellent! However, the topping needed about double the original amount of butter that it called for (1/2 cup instead of 1/4 cup). I have updated the recipe accordingly.

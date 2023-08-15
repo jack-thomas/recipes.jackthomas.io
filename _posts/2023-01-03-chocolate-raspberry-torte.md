@@ -36,7 +36,7 @@ categories:
 
 ## Comments
 
-###### 2022-08-07 (Jack)
+#### 2022-08-07 (Jack)
 
 I made this (with Mom) last night for their housewarming shindig (with John and Michelle Twohig, Kris and Mick Aase, and Kyle and Katie Viesselmann (sp?)). It was definitely a big hit. However, we felt that we overbaked it a little bit. That is, it was a bit dry. You should check it much earlier than the 40 min. that it calls for, so I added a note to the directions indicating as much.
 

@@ -44,6 +44,6 @@ Jodi Thomas > Jack Thomas
 
 ## Comments
 
-###### 2021-02-02 Jack Thomas
+#### 2021-02-02 Jack Thomas
 
 I've had Mom's version of this before, and it was pretty good. (This was about a year ago... Or two... The pandemic has warped time.) But anyway, I made this for myself today, and it was still pretty good. I didn't have the carrots, but I still enjoyed it!

@@ -53,11 +53,11 @@ categories:
 
 ## Comments
 
-###### 2021-10-06 Jack Thomas
+#### 2021-10-06 Jack Thomas
 
 Heating this up directly from frozen ends up a bit chalky, but not bad!
 
-###### 2021-09-23 Jack Thomas
+#### 2021-09-23 Jack Thomas
 
 I made a double batch of this for lunch (and a shitload of leftovers) today. It's definitely worth doubling the batch because then you can use an entire 1lb bag of red lentils, the larger 28oz can of tomatoes, and a whole bulb of garlic.
 

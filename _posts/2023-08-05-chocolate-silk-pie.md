@@ -20,7 +20,7 @@ categories:
 - 2 ounces unsweet chocolate
 - 1 cup heavy whipping cream, whipped
 
-###### Topping Ingredients
+#### Topping Ingredients
 
 - 1 cup heavy whipping cream
 - 2 Tbsp powdered sugar

@@ -38,6 +38,6 @@ Jodi Thomas > Jack Thomas (heavily rewritten with simplified method and a whole 
 
 ## Comments
 
-###### 2021-06-27 (Jack)
+#### 2021-06-27 (Jack)
 
 This is the Mac and Cheese recipe that my mom started making fairly regularly when I was in high school (give or take). It was previously labeled "Mac and Cheese (Crock Pot)," but I've since just relabeled it to "Mac and Cheese" since it's the probably the recipe I'm looking for under that term.

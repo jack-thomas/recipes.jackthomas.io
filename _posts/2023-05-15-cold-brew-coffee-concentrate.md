@@ -25,6 +25,6 @@ Jack Thomas. This recipe was basically developed via trial and error. The import
 
 ## Comments
 
-###### 2023-05-15 Jack Thomas
+#### 2023-05-15 Jack Thomas
 
 [Peace Coffee](https://www.peacecoffee.com/learn/brew-guides/cold-press/) suggests 12oz coffee to 8 cups water (3:2), rather than the current 1:1 ratio. Worth experimenting with?

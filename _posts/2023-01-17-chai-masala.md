@@ -34,21 +34,21 @@ categories:
 
 ## Comments
 
-###### 2023-01-15
+#### 2023-01-15
 
 Used up way more ginger than was called for in this batch. The ginger, therefore, definitely overpowered the tea - but not in a way we entirely disliked. Can't hate a good ginger tea! Otherwise, I think the recipe is solid.
 
-###### 2023-01-14
+#### 2023-01-14
 
 Best batch yet! No notes. (The decreased tea/increased steep time worked wonderfully!)
 
-###### 2023-01-08
+#### 2023-01-08
 
 We made this recipe again, and we realized that the original amount of tea specified (4 Tablespoons) was certainly a typo. We cut it in half to allow ourselves more time to steep without pulling too much bitterness from the tea. That is, we updated the recipe to cut it in half next time. This should also allow us to need less sweetener.
 
 The other changes mentioned below were all made, and the result was certainly improved! (We also used fresh ginger this time, which undoubtedly helped.)
 
-###### 2023-01-01
+#### 2023-01-01
 
 Abby and I made a double batch of this today, and we thought that it could have used more of most of the spices. The recipe has been updated to reflect what we think we should use next time! We also thought that the sweeter results were better. We used maple syrup, but I think honey might be better next time.
 

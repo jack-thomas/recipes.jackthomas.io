@@ -32,6 +32,6 @@ categories:
 
 ## Comments
 
-###### 2022-11-24 (Jack)
+#### 2022-11-24 (Jack)
 
 We made this recipe for Thanksgiving 2019 and really liked it! I super simplified it to only include the parts I actually care about it though.
