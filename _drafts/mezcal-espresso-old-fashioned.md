@@ -13,12 +13,11 @@ categories:
 
 ## Ingredients
 
-- 2 ounces mezcal (or maybe a split base with bourbon or scotch?)
-- 1 ounce espresso
-- maybe some coffee liqueur?
-- 3-4 dashes chocolate bitters (and/or orange bitters?)
-- maybe some simple syrup, agave syrup, or another sweetener?
-- maybe a marashino cherry for garnish?
+- 2 ounces Del Maguey Vida Mezcal
+- 1 ounce cold brew coffee
+- 1/2 ounce Cointreau
+- 1/2 ounce simple syrup
+- 6 dashes orange bitters
 
 ## Directions
 
@@ -30,15 +29,45 @@ Jack Thomas
 
 ## Versions
 
+#### 2023-08-xx Version 3
+
+I increased the sweetness and switched to cold brew coffee for the third version.
+
+- 2 ounces Del Maguey Vida Mezcal
+- 1 ounce cold brew coffee
+- 1/2 ounce Cointreau
+- 1/2 ounce simple syrup
+- 6 dashes orange bitters
+
+Build in a rocks glass with ice. Stir. Garnish.
+
 #### 2023-08-14 Version 2
 
-In the second version of this ... <!--- TO DO: I haven't actually made this yet. --->
+The second version of this was an attempt to go back in the "old fashioned" direction.
 
-#### 2023-08-14 Version 1
+- 2 ounces Del Maguey Vida Mezcal
+- 1 ounce espresso (chilled)
+- 6 dashes orange bitters
+- 1 barspoon maraschino cherry syrup
+- 3 maraschino cherries, for garnish
 
-This is more of an attempt to recreate the general idea of a "Mezcal Espresso Old Fashioned," which is how that bartender summarized the drink. I basically started by combining the Oaxaca Old Fashioned and Espresso Martini cocktails as a starting point. The exact configuration was 2 ounces Del Maguey Vida Mezcal, 1 ounce espresso (chilled), 4 dashes chocolate bitters, and a maraschino cherry garnish.
+Build in a rocks glass with ice. Stir. Garnish.
 
-I don't think the Del Maguey Vida Mezcal was a good choice. It's not smokey enough. Perhaps next time I should take the same route I took to adjust the [Mezcal Margarita](/mezcal-margarita.html). <!--- TO DO: I haven't actually made this yet. --->
+I can't exactly decide what's wrong here either. It was drinkable, but I think it was short on the sweetness. Maybe I should include some Cointreau or simple syrup or something.
+
+#### 2023-08-15 Version 1
+
+This is more of an attempt to recreate the general idea of a "Mezcal Espresso Old Fashioned," which is how that bartender summarized the drink. I basically started by combining the Oaxaca Old Fashioned and Espresso Martini cocktails as a starting point. The version I started with was more of a "Mezcal Espresso Martini," probably.
+
+- 1 ounce Del Maguey Vida Mezcal
+- 1 ounce Mr. Black Coffee Liqueur
+- 1 ounce espresso (chilled)
+- 4 dashes orange bitters
+- 4 dashes cocoa bitters
+
+Shake with ice. Strain into a chilled coupe.
+
+This version started off pretty bland, so I added 1/4 ounce of Laphroaig - thinking that maybe cranking up the smoke would help. It didn't really help, and it felt like all of the flavors kind of cancelled each other out. I dumped it down the drain.
 
 #### 2023-07-20 Original
 
