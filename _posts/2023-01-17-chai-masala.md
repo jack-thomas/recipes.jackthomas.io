@@ -50,8 +50,8 @@ The other changes mentioned below were all made, and the result was certainly im
 
 #### 2023-01-01
 
-Abby and I made a double batch of this today, and we thought that it could have used more of most of the spices. The recipe has been updated to reflect what we think we should use next time! We also thought that the sweeter results were better. We used maple syrup, but I think honey might be better next time.
+We made a double batch of this today, and we thought that it could have used more of most of the spices. The recipe has been updated to reflect what we think we should use next time! We also thought that the sweeter results were better. We used maple syrup, but I think honey might be better next time.
 
 ## Sources
 
-This started as a combination of the recipes from [Masala and Chai](https://masalaandchai.com/masala-chai/) and [Feasting at Home](https://www.feastingathome.com/authentic-masala-chai-recipe/), but I've since heavily edited it as Abby and I have been making it.
+This started as a combination of the recipes from [Masala and Chai](https://masalaandchai.com/masala-chai/) and [Feasting at Home](https://www.feastingathome.com/authentic-masala-chai-recipe/), but I've since heavily edited it as we have been making it.
