@@ -6,6 +6,7 @@ slug: turkey-burgers
 categories:
   - category:
     - entrees
+    - turkey entrees
   - category:
     - healthy
 ---
