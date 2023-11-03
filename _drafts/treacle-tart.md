@@ -50,4 +50,4 @@ categories:
 
 #### 2023-09-09
 
-I (Jack) made this today for Danielle Aase's wedding shower. It's a very flexible recipe, and recipes online vary quite considerably. Basically, whatever you have will be fine.
+I (Jack) made this today for Danielle Aase's wedding shower. It's a very flexible recipe, and recipes online vary quite considerably. Basically, whatever you have will be fine. I also wonder if you could make this as individual tartlets (a la [Canadian Butter Tarts](/canadian-butter-tart.html)) to make these easier to serve.
