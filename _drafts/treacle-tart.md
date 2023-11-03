@@ -3,6 +3,7 @@ layout: post
 title: "Treacle Tart"
 author: "Jack Thomas"
 slug: treacle-tart
+home_exclude: exclude
 categories:
   - category:
     - desserts

@@ -3,6 +3,7 @@ layout: post
 title: "Vinaigrette"
 author: "Jack Thomas"
 slug: vinaigrette
+home_exclude: exclude
 categories:
   - category:
     - sauces and seasonings
