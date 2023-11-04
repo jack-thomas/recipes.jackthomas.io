@@ -6,7 +6,7 @@ slug: jalapeno-poppers
 home_exclude: exclude
 categories:
   - category:
-    - appetizers
+    - appetizers_snacks_and_sides
 ---
 
 ## Ingredients

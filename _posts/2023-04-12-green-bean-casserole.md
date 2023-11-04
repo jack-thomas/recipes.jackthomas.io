@@ -5,7 +5,7 @@ author: "Jack Thomas"
 slug: green-bean-casserole
 categories:
   - category:
-    - appetizers
+    - appetizers_snacks_and_sides
   - category:
     - holiday
     - thanksgiving

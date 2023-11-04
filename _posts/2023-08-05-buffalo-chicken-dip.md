@@ -6,7 +6,7 @@ slug: buffalo-chicken-dip
 home_exclude: exclude
 categories:
   - category:
-    - appetizers
+    - appetizers_snacks_and_sides
   - category:
     - holiday
 ---

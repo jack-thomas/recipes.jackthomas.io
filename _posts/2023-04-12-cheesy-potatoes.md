@@ -5,7 +5,7 @@ author: "Jack Thomas"
 slug: cheesy-potatoes
 categories:
   - category:
-    - appetizers
+    - appetizers_snacks_and_sides
   - category:
     - holiday
 ---

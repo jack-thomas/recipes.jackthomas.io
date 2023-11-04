@@ -5,7 +5,7 @@ author: "Jack Thomas"
 slug: pizza-snacks
 categories:
   - category:
-    - appetizers
+    - appetizers_snacks_and_sides
   - category:
     - holiday
     - christmas
