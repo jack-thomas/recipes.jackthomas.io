@@ -5,7 +5,7 @@ author: "Jack Thomas"
 slug: dried-cranberry-salad
 categories:
   - category:
-    - appetizers_snacks_and_sides
+    - appetizers snacks and sides
   - category:
     - holiday
     - christmas

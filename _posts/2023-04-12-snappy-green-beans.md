@@ -5,7 +5,7 @@ author: "Jack Thomas"
 slug: snappy-green-beans
 categories:
   - category:
-    - appetizers_snacks_and_sides
+    - appetizers snacks and sides
   - category:
     - holiday
     - thanksgiving

@@ -5,7 +5,7 @@ author: "Jack Thomas"
 slug: roasted-squash
 categories:
   - category:
-    - appetizers_snacks_and_sides
+    - appetizers snacks and sides
   - category:
     - healthy
   - category:
