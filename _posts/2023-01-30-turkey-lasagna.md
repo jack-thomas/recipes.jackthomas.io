@@ -19,7 +19,7 @@ categories:
 - 1/3 cup part-skim ricotta cheese
 - 1 egg, scrambled
 - 1/4 teaspoon salt
-- 1/2 cup part-skim mozazrella cheese, divided
+- 1/2 cup part-skim mozzarella cheese, divided
 - Cooking oil spray
 - 1 pound ground turkey
 - 2 1/2 cups marinara, divided
