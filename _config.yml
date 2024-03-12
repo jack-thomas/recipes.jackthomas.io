@@ -6,7 +6,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Family Recipes
+title: Jack's Recipes
 # email: 
 description: Jack's Recipes
 baseurl: "/"
