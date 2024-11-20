@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Cocktails
+title: Gin Cocktails
 category: [drinks, cocktails, gin cocktails]
 ---

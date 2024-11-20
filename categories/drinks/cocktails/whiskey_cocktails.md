@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Cocktails
+title: Whiskey Cocktails
 category: [drinks, cocktails, whiskey cocktails]
 ---

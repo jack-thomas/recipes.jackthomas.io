@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Cocktails
+title: Vodka Cocktails
 category: [drinks, cocktails, vodka cocktails]
 ---

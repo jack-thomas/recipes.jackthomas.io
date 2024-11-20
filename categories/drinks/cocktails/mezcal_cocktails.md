@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Cocktails
+title: Mezcal Cocktails
 category: [drinks, cocktails, mezcal cocktails]
 ---
