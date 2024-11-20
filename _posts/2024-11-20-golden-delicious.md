@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Golden Delicious"
-author: "Jack Thomas"
+author: "Casey Wharton"
 slug: golden-delicious
 home_exclude: exclude
 categories:
@@ -23,10 +23,11 @@ Combine with ice. Shake. Strain. (Or just build in the glass and stir.)
 
 ## Apple Syrup
 
-- 4 cups brown sugar
+- 2 cups white sugar
+- 2 cups brown sugar
 - 4 cups water
-- 6 apples, cored and quartered
 - 4 cinnamon sticks
+- 6 apples, cored and quartered
 
 Add to saucepan. Barely simmer until apples are soft. Strain out apples (and mash them for some excellent applesauce.)
 
