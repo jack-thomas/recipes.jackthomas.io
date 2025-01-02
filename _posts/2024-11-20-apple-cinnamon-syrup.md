@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apple-Cinnamon Syrup"
-author: "Jack Thomas"
+author: "Casey Wharton"
 slug: apple-cinnamon-syrup
 home_exclude: exclude
 categories:

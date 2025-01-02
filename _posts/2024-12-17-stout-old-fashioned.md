@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stout Old Fashioned"
-author: "Jack Thomas"
+author: "Mike Wharton"
 slug: stout-old-fashioned
 home_exclude: exclude
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gingerbread Old Fashioned"
-author: "Jack Thomas"
+author: "Casey Wharton"
 slug: gingerbread-old-fashioned
 home_exclude: exclude
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naughty Gingerbread"
-author: "Jack Thomas"
+author: "Casey Wharton"
 slug: gingerbread-bees-knees
 home_exclude: exclude
 categories:

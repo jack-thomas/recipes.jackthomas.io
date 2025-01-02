@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gingerbread Syrup"
-author: "Jack Thomas"
+author: "Casey Wharton"
 slug: gingerbread-syrup
 home_exclude: exclude
 categories:

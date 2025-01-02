@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cranberry Syrup"
-author: "Jack Thomas"
+author: "Casey Wharton"
 slug: cranberry-syrup
 home_exclude: exclude
 categories:
