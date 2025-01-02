@@ -15,21 +15,11 @@ categories:
 
 - 2 ounces whiskey, preferably Angel's Envy
 - 1 ounce lemon juice
-- 1 ounce apple syrup (recipe follows)
+- 1 ounce [apple-cinnamon syrup](/apple-cinnamon-syrup.html)
 
 ## Directions
 
 Combine with ice. Shake. Strain. (Or just build in the glass and stir.)
-
-## Apple Syrup
-
-- 2 cups white sugar
-- 2 cups brown sugar
-- 4 cups water
-- 4 cinnamon sticks
-- 6 apples, cored and quartered
-
-Add to saucepan. Barely simmer until apples are soft. Strain out apples (and mash them for some excellent applesauce.)
 
 ## Sources
 

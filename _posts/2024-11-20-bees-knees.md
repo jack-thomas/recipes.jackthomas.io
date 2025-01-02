@@ -13,17 +13,13 @@ categories:
 
 ## Ingredients
 
-- 2 ounces gin, preferably Dampfwerk Barrelled Gin
+- 2 ounces gin, preferably Barr Hill Reserve Tom Cat Barrel Aged Gin
 - 1 ounce lemon juice
-- 1 ounce honey syrup (recipe follows)
+- 1 ounce [honey syrup](/honey-syrup.html)
 
 ## Directions
 
 Combine with ice. Shake. Strain. (Or just build in the glass and stir.)
-
-## Honey Syrup
-
-To make honey syrup, combine 1 to 3 parts honey to 1 part water in a saucepan. Heat and stir occasionally until the honey is dissolved.
 
 ## Sources
 
