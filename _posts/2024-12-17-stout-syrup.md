@@ -18,7 +18,7 @@ categories:
 
 ## Directions
 
-Heat until sugar is dissolved and bubbles become big and slow. (NOte that there is a point where it will foam up rather suddenly, so pay attention.)
+Heat until sugar is dissolved and bubbles become big and slow. (Note that there is a point where it will foam up rather suddenly, so pay attention.)
 
 ## Sources
 
