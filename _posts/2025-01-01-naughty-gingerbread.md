@@ -13,7 +13,7 @@ categories:
 
 ## Ingredients
 
-- 2 ounce whiskey, preferably Angel's Envy
+- 2 ounces whiskey, preferably Angel's Envy
 - 1 ounce amaro, preferably Amaro Sfumato Rabarbaro
 - 1 ounce [Gingerbread Syrup](/gingerbread-syrup.html)
 - 1/4 ounce fresh lemon juice
