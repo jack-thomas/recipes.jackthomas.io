@@ -18,12 +18,10 @@ categories:
 - allspice
 - ginger
 - cloves
-- nutmeg
-- black pepper?
 
 ## Directions
 
-Combine whole spices with water and molasses. Simmer until desired flavor is reached.
+Combine (preferably whole) spices with water and molasses. Simmer until desired flavor is reached.
 
 ## Sources
 
