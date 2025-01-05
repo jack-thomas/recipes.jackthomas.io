@@ -2,7 +2,7 @@
 layout: post
 title: "Naughty Gingerbread"
 author: "Casey Wharton"
-slug: gingerbread-bees-knees
+slug: naughty-gingerbread
 home_exclude: exclude
 categories:
   - category:
