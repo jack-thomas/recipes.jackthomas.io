@@ -20,7 +20,7 @@ categories:
 - 1/2 teaspoon dried basil
 - 1/2 teaspoon dried oregano
 - 1/2 teaspoon dried thyme
-- Chicken
+- 8(ish) chicken thighs
 - Olive oil
 
 ## Directions
