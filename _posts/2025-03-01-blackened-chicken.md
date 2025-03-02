@@ -3,6 +3,7 @@ layout: post
 title: "Blackened Chicken"
 author: "Jack Thomas"
 slug: blackened-chicken
+home_exclude: exclude
 categories:
   - category:
     - entrees
