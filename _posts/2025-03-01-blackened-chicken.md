@@ -18,9 +18,7 @@ categories:
 - 1 tablespoon garlic powder
 - 1 tablespoon ground black pepper
 - 1 teaspoon sea salt
-- 1/2 teaspoon dried basil
-- 1/2 teaspoon dried oregano
-- 1/2 teaspoon dried thyme
+- 1/2 teaspoon dried basil, oregano, or thyme (one or more, optional)
 - 8(ish) chicken thighs
 - Olive oil
 
