@@ -4,17 +4,6 @@ layout: default
 
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  {%- assign content = page.content | strip_newlines -%}
-  {%- if content != "" -%}
-    <h2 class="page-heading">Subcategories</h2>
-    {{page.content}}
-  {%- endif -%}
-
-  {%- assign posts = site.posts | sort: 'title' -%}
   <!--- Build empty array (to later fill with posts that match the category that we're on). --->
   {%- assign valid_posts = site.emptyArray -%}
   {%- for post in posts -%}
@@ -47,6 +36,16 @@ layout: default
       {%- assign valid_posts = valid_posts | push: post -%}
     {%- endif -%}
   {%- endfor -%}
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  {%- assign content = page.content | strip_newlines -%}
+  {%- if content != "" -%}
+    <h2 class="page-heading">Subcategories</h2>
+    {{page.content}}
+  {%- endif -%}
 
   <h2 class="page-heading">All Recipes</h2>
   <ul class="post-list">
