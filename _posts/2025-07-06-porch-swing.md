@@ -25,7 +25,7 @@ categories:
 - 4.5 ounces lemon juice
 - 3 ounces syrup
 
-## Ingredients
+## Ingredients (Bottle Batch)
 
 - 64 ounces (1 bottle) tea
 - 24 ounces (3 cups) whiskey
