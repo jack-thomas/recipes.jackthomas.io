@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Cake Frosting
-category: [desserts, cakes, cake frosting]
+category: [desserts, cakes, cake frostings]
 ---
