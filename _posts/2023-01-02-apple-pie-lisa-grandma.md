@@ -3,6 +3,7 @@ layout: post
 title: "Apple Pie (Lisa Grandma)"
 author: "Jack Thomas"
 slug: apple-pie-lisa-grandma
+home_exclude: exclude
 categories:
   - category:
     - desserts
