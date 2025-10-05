@@ -10,6 +10,9 @@ categories:
   - category:
     - holiday
     - christmas
+  - category:
+    - holiday
+    - wedding
 ---
 
 ## Ingredients
