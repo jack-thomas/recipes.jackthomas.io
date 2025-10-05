@@ -37,4 +37,4 @@ categories:
 
 ## Alternate Recipes
 
-- [Sally's Baking Addiction](https://sallysbakingaddiction.com/best-blueberry-pie/)
+- [Sally's Baking ~~Addiction~~](https://sallysbakingaddiction.com/best-blueberry-pie/)
