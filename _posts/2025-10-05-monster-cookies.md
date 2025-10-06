@@ -18,14 +18,14 @@ categories:
 - 1 teaspoon baking powder
 - 1 teaspoon baking soda
 - 1 teaspoon salt
-- 1 cup (16 Tbsp; 226g) unsalted butter, softened to room temperature
+- 1 cup (16 Tbsp; 226g; 2 sticks) unsalted butter, softened to room temperature
 - 1 cup (200g) granulated sugar
 - 1/2 cup (100g) packed light or dark brown sugar
 - 2 large eggs, at room temperature
 - 1 cup (240g) creamy peanut butter
 - 2 teaspoons pure vanilla extract
 - 2 cups (170g) old-fashioned whole rolled oats
-- 1 and 1/2 cups (345g) ~~mini~~ M&Ms
+- 1 and 1/2 cups (345g, 1 10-oz bag) M&Ms
 - 1 and 1/2 cups (270g) semi-sweet chocolate chips, plus more for topping if desired
 
 ## Directions
@@ -42,3 +42,9 @@ categories:
 ## Source
 
 [Sally's Baking ~~Addiction~~](https://sallysbakingaddiction.com/monster-cookies/) > Jack Thomas
+
+## Comments
+
+#### 2025-10-06 (Jack)
+
+We baked a practice round of these today.

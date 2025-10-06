@@ -14,7 +14,7 @@ categories:
 
 ## Ingredients
 
-- 3/4 pound unsalted butter, at room temperature
+- 3/4 pound (3 sticks) unsalted butter, at room temperature
 - 1 cup sugar, plus extra for sprinkling
 - 1 teaspoon pure vanilla extract
 - 3 1/2 cups all-purpose flour
@@ -32,3 +32,9 @@ categories:
 ## Source
 
 Ina Garten > [Food Network](https://www.foodnetwork.com/recipes/ina-garten/shortbread-cookies-recipe-1945855) > Jodi Thomas > Jack Thomas
+
+## Comments
+
+#### 2025-10-06 (Jack)
+
+We baked two practice rounds of these today: one with . I misinterpreted the amount of butter (I read as "3/4 cup" rather than "3/4 pound"), so we started with 1 1/2 sticks instead of the 3 sticks that we needed. We ended up adding in the missing butter after the flour, and we really struggled to roll out the dough. We are either going to try this recipe again with the right amount of butter at the right time, or we are going to try another recipe. Regardless, we need to do another test round of snickerdoodles before we can consider them wedding-ready.

@@ -16,7 +16,7 @@ categories:
 
 ### Cookie Ingredients
 
-- 1 cup butter (softened)
+- 1 cup (2 sticks) butter (softened)
 - 1 1/2 cups sugar
 - 2 large eggs
 - 2 teaspoons vanilla
@@ -46,3 +46,13 @@ categories:
 ## Source
 
 [Modern Honey](https://www.modernhoney.com/the-best-snickerdoodle-cookie-recipe/) > Jack Thomas
+
+## Comments
+
+#### 2025-10-06 (Jack)
+
+We baked a practice round of these today.
+
+- Used small/size 60 scoop and then double rolled, as directed. (Did not press!) We also added a tiny sprinkle beyond that on top, but this was actually not desirable.
+- Made about four dozen, so you should therefore probably double.
+- Ended up baking for 11 minutes at 350 (non-convection).
