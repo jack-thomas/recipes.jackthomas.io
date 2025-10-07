@@ -47,4 +47,4 @@ categories:
 
 #### 2025-10-06 (Jack)
 
-We baked a practice round of these today.
+We baked a practice round of these today. We used the medium / size 40 scoop, which seemed about the right size for what we're doing, but we didn't count how many cookies this recipe made. In general, this recipe was solid.
