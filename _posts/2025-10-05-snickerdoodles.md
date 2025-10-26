@@ -3,6 +3,7 @@ layout: post
 title: "Snickerdoodles"
 author: "Jack Thomas"
 slug: snickerdoodles
+home_exclude: exclude
 categories:
   - category:
     - desserts

@@ -3,6 +3,7 @@ layout: post
 title: "Peanut Butter Blossoms"
 author: "Jack Thomas"
 slug: peanut-butter-blossoms
+home_exclude: exclude
 categories:
   - category:
     - desserts

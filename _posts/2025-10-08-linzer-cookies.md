@@ -3,6 +3,7 @@ layout: post
 title: "Linzer Cookies"
 author: "Jack Thomas"
 slug: linzer-cookies
+home_exclude: exclude
 categories:
   - category:
     - desserts

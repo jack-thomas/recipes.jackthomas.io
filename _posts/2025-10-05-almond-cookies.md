@@ -3,6 +3,7 @@ layout: post
 title: "Almond Cookies"
 author: "Jack Thomas"
 slug: almond-cookies
+home_exclude: exclude
 categories:
   - category:
     - desserts

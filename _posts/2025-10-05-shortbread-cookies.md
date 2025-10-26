@@ -3,6 +3,7 @@ layout: post
 title: "Shortbread Cookies"
 author: "Ina Garten"
 slug: shortbread-cookies
+home_exclude: exclude
 categories:
   - category:
     - desserts

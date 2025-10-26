@@ -3,6 +3,7 @@ layout: post
 title: "Monster Cookies"
 author: "Jack Thomas"
 slug: monster-cookies
+home_exclude: exclude
 categories:
   - category:
     - desserts
