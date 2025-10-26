@@ -39,6 +39,10 @@ Jodi Thomas > Jack Thomas
 
 ## Comments
 
+#### 2025-10-19 (Jack)
+
+So... We made a test batch of these today. They *tasted* pretty good, but we ended up needing **way** more flour (like three times as much). We certainly need to make another test batch, for which we're thinking that we should start with 1 cup of almond flour and 2 cups of all-purpose flour. Regardless, we definitely need to do another test batch, as our process today will not be easy to replicate.
+
 #### 2019-12 (Mom)
 
 Great! Wet dough. Use lots of flour when rolling.
