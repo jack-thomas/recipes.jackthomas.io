@@ -4,7 +4,6 @@ title: All Recipes
 permalink: /all/
 ---
 
-
 <!---
     Copied from home, except with filter revmoed!
 --->
