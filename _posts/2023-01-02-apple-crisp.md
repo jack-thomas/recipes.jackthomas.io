@@ -36,4 +36,4 @@ categories:
 
 ## Source
 
-Jodi Thomas
+Jodi Thomas > Jack Thomas

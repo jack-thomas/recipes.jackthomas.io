@@ -39,12 +39,12 @@ categories:
 
 - If you pit fresh cherries to make this, you should make [cherry pit whipped cream](https://www.seriouseats.com/cherry-pit-whipped-cream-recipe) with the pits. It's basically just a matter of steeping all your pits in about a cup of cream while your pie bakes and cools.
 
+## Source
+
+[Smitten Kitchen](https://smittenkitchen.com/2008/06/sweet-cherry-pie/)
+
 ## Comments
 
 #### 2022-01-01 (Jack)
 
 I made this pie for my birthday today, but I kind of had to wing it towards the end. I used frozen cherries at the amount specified (4 cups), but the resulting mixture was not enough cherries and too much sugar soup (I used 3/4 cup of sugar). I also tossed in some vanilla for good measure. It didn't fill up my deep dish pie plate, so I dumped in some still-frozen cherries at the last minute just before I baked it. I ended up baking it for an extra 10-20 minutes longer than specified, and the results were surprisingly good! The pie set up perfectly, and it had a surprisingly nice variety of texture between the thawed and frozen cherries. The "sugar soup" also set up/thickened nicely. Would make again!
-
-## Source
-
-[Smitten Kitchen](https://smittenkitchen.com/2008/06/sweet-cherry-pie/)

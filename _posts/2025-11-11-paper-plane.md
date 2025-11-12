@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paper Plane"
-author: "Sam Ross"
+author: "Jack Thomas"
 slug: paper-plane
 home_exclude: exclude
 categories:

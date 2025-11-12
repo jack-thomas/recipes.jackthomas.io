@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shortbread Cookies"
-author: "Ina Garten"
+author: "Jack Thomas"
 slug: shortbread-cookies
 home_exclude: exclude
 categories:

@@ -34,7 +34,7 @@ categories:
 
 ## Source
 
-Lisa Grandma > Jodi Thomas > Jack Thomas
+Georgia "Lisa Grandma" Mickelson > Jodi Thomas > Jack Thomas
 
 ## Comments
 
