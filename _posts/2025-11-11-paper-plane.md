@@ -25,3 +25,9 @@ Shaken. Serve up in a coupe.
 ## Sources
 
 Sam Ross (bartender Milk & Honey at the time) > Robert Simonson (author of *A Proper Drink*) > Jack Thomas
+
+## Comments
+
+#### 2023-08-15 (Jack)
+
+There is a lot going on in this drink, but in a good way! I really like these.
