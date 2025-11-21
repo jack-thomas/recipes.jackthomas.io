@@ -13,10 +13,10 @@ categories:
 
 ## Ingredients
 
-- 1 oz lemon juice
-- 1 oz Aperol
-- 1 oz bourbon
-- 1 oz Amaro Nonino Quintessentia
+- 1 ounce lemon juice
+- 1 ounce Aperol
+- 1 ounce bourbon
+- 1 ounce Amaro Nonino Quintessentia
 
 ## Directions
 

@@ -13,9 +13,9 @@ categories:
 
 ## Ingredients
 
-- 1 1/2 oz Becherovka
-- 1/2 oz high-proof bourbon, such as Old Forester Single Barrel
-- 1/2 oz honey syrup
+- 1 1/2 ounces Becherovka
+- 1/2 ounce high-proof bourbon, such as Old Forester Single Barrel
+- 1/2 ounce honey syrup
 - 2 dashes walnut bitters
 
 ## Directions
