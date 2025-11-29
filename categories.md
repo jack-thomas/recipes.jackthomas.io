@@ -10,6 +10,7 @@ permalink: /categories/
 <h3><a class="post-link" href="/categories/drinks">Drinks</a></h3>
 <h3><a class="post-link" href="/categories/desserts">Desserts</a></h3>
 <h3><a class="post-link" href="/categories/entrees">Entrées</a></h3>
+<h3><a class="post-link" href="/categories/gluten_free">Gluten-Free</a></h3>
 <h3><a class="post-link" href="/categories/healthy">Healthy</a></h3>
 <h3><a class="post-link" href="/categories/holiday">Holiday</a></h3>
 <h3><a class="post-link" href="/categories/ingredients">Ingredients</a></h3>
