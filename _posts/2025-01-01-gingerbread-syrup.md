@@ -21,7 +21,7 @@ categories:
 
 ## Directions
 
-Combine (preferably whole) spices with water and molasses. Simmer until desired flavor is reached.
+Combine whole spices with water and molasses. Simmer until desired flavor is reached.
 
 ## Sources
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Mac and Cheese"
+title: "Mac and Cheese (Crock Pot)"
 author: "Jack Thomas"
-slug: mac-and-cheese
+slug: mac-and-cheese-crock-pot
 categories:
   - category:
     - entrees
@@ -23,8 +23,8 @@ categories:
 ## Directions
 
 1. Boil water in a large pot. Once the water is boiling, add salt. Boil the macaroni in water for 1 min less than what the package says for al dente. (Do not overcook or you'll have soggy noodles.)
-2. Meanwhile, combine all ingredients except the macaroni in a pot. Set over medium heat, and cook until everything is melted.
-3. Drain the pasta and combine with sauce.
+2. Meanwhile, combine all ingredients except the macaroni in a crock pot.
+3. Run crock pot on high until 
 
 ## Notes
 
@@ -37,6 +37,10 @@ categories:
 Jodi Thomas > Jack Thomas (heavily rewritten with simplified method and a whole box of macaroni)
 
 ## Comments
+
+#### 2025-11-29 (Jack)
+
+I'm moving this back to drafts. I want to find a better separation between classic mac and cheese (with a roux/béchamel/mornay sauce) and this crock pot version.
 
 #### 2021-06-27 (Jack)
 

@@ -34,6 +34,10 @@ categories:
 5. Microwave remaining chocolate in large microwaveable bowl as directed on package. Whisk in COOL WHIP until well blended. Transfer cake to plate; frost with COOL WHIP mixture.
 6. Use sharp knife to cut chocolate on baking sheet into 1-1/2- to 2-inch irregular-shaped pieces. Arrange on cake. Top with raspberries and powdered sugar.
 
+## Source
+
+[Kraft](http://www.kraftrecipes.com/recipes/chocolate-raspberry-torte-66246.aspx) via [Wayback Machine](https://web.archive.org/web/20111107132451/http://www.kraftrecipes.com/recipes/chocolate-raspberry-torte-66246.aspx) or [new website](https://www.myfoodandfamily.com/recipe/066246/chocolate-raspberry-torte)
+
 ## Comments
 
 #### 2022-08-07 (Jack)
@@ -41,7 +45,3 @@ categories:
 I made this (with Mom) last night for their housewarming shindig (with John and Michelle Twohig, Kris and Mick Aase, and Kyle and Katie Viesselmann (sp?)). It was definitely a big hit. However, we felt that we overbaked it a little bit. That is, it was a bit dry. You should check it much earlier than the 40 min. that it calls for, so I added a note to the directions indicating as much.
 
 I also always forget how flat the chocolate raspberry torte is. Perhaps it would be interesting to use two 6" cake pans instead (or double the recipe) and make this a layered cake. Mom doesn't think this is a good idea, and she's probably right.
-
-## Source
-
-[Kraft](http://www.kraftrecipes.com/recipes/chocolate-raspberry-torte-66246.aspx) via [Wayback Machine](https://web.archive.org/web/20111107132451/http://www.kraftrecipes.com/recipes/chocolate-raspberry-torte-66246.aspx) or [new website](https://www.myfoodandfamily.com/recipe/066246/chocolate-raspberry-torte)

@@ -27,4 +27,4 @@ Brown hamburger and sausage. Add garlic and chili powder. Melt cheese in on low.
 
 Kris Fernholz > Jack Thomas
 
-This is a recipe that Kris Fernholz used to make every Christmas Eve. She has it labeled as "from the kitchen of 'Claudia'," but I'm not sure who that is.
+This is a recipe that Kris Fernholz used to make every Christmas Eve. She has it labeled as "from the kitchen of Claudia," but I'm not sure who that is.

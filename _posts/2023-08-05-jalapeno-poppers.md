@@ -26,3 +26,9 @@ categories:
 ## Source
 
 Jack Thomas
+
+## Comments
+
+#### 2024-12-05
+
+Chili Pepper Madness's Mike Hultquist also [suggests](https://www.chilipeppermadness.com/recipes/jalapeno-poppers/) including bacon and breadcrumbs. Tempting!

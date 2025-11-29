@@ -30,5 +30,3 @@ categories:
 ## Source
 
 [Delish](https://www.delish.com/cooking/recipe-ideas/recipes/a49456/jerk-chicken-tacos-recipe/) > Jack Thomas, with significant rewrites.
-
-

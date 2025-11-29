@@ -24,3 +24,9 @@ Combine with ice. Shake. Strain. (Or just build in the glass and stir.)
 ## Sources
 
 This is a twist on the [Gold Rush](/gold-rush.html) - which itself is a twist on the [Bee's Knees](/bees-knees.html) - that Casey and I came up with when we were trying to figure out a way to use up some extra apples.
+
+## Comments
+
+#### 2024-12-03 (Jack)
+
+We've made this so many times that we've literally gone through three bottles of Angel's Envy making these. It's a great cocktail!

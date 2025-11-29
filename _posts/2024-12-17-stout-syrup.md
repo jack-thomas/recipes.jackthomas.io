@@ -22,4 +22,4 @@ Heat until sugar is dissolved and bubbles become big and slow. (Note that there 
 
 ## Sources
 
-[Nonsensical Cocktails](https://www.nonsensicalcocktails.com/syrups-mixers/guinness-syrup) > Mike Wharton > Jack Thomas
+[Nonsensical Cocktails](https://www.nonsensicalcocktails.com/syrups-mixers/guinness-syrup) > Mike Wharton > Casey Wharton > Jack Thomas

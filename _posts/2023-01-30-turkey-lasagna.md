@@ -37,4 +37,4 @@ categories:
 
 ## Source
 
-[Real Appeal](https://www.realappeal.com/how-it-works/the-spark/2017/turkey-lasagna)
+[Real Appeal](https://www.realappeal.com/how-it-works/the-spark/2017/turkey-lasagna) > Jodi Thomas > Jack Thomas

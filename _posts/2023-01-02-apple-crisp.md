@@ -12,14 +12,14 @@ categories:
 
 ## Ingredients
 
-### Filling
+### Filling Ingredients
 
 - 4 cups (or more) apples
 - 2 Tablespoons flour
 - 1/2 teaspoon (heaping) cinnamon (preferably pie spice)
 - 1 cup sugar
 
-### Topping
+### Topping Ingredients
 
 - 3/4 cup oats
 - 3/4 cup light brown sugar
@@ -37,3 +37,11 @@ categories:
 ## Source
 
 Jodi Thomas > Jack Thomas
+
+<!---
+## Comments
+
+#### 2024-12-05 (Jack)
+
+Glen and Friends Cooking has a a [Maple-Ginger Apple Crumble](https://youtu.be/WxWoQRXtlyM) video on [[(Application) YouTube|YouTube]]. The general idea of including additional flavors in your apple crisp is a good one!
+--->
