@@ -3,6 +3,7 @@ layout: post
 title: "Gluten-Free Oreo Cake with Cream Cheese Frosting"
 author: "Rita Brown"
 slug: gluten-free-oreo-cake
+home_exclude: exclude
 categories:
   - category:
     - desserts
@@ -45,3 +46,5 @@ categories:
 ## Source
 
 Rita Brown > Jack Thomas
+
+Rita Brown described this recipe to me (Jack Thomas) in general terms, saying "Use the King Arthur gluten-free cake mix, but add an extra egg, instant pudding, and some crushed oreos. Definitely use the King Arthur one, though, because the Pillsbury one isn't as good. Then make cream cheese frosting, and crush some oreos into that too." I like the [cream cheese frosting](/cream-cheese-frosting.html) from the [carrot cake](/carrot-cake.html) that I make, so I copied that one here.
