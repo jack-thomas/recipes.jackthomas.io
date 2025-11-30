@@ -3,7 +3,6 @@ layout: post
 title: "Sugar Cookies (Cut Out)"
 author: "Jack Thomas"
 slug: sugar-cookies
-home_exclude: exclude
 categories:
   - category:
     - desserts
