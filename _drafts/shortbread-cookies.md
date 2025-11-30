@@ -8,9 +8,6 @@ categories:
   - category:
     - desserts
     - cookies and bars
-  - category:
-    - holiday
-    - wedding
 ---
 
 ## Ingredients
