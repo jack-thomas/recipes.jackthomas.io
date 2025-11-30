@@ -45,7 +45,7 @@ categories:
 7. Add mixed dry ingredients alternating with sour cream. Dough will be soft and sticky.
 8. Drop 1 teaspoon per cookie onto ungreased cookie sheet.
 9. Bake at 350F for 10-13 minutes, until the bottoms are golden. Let cool on a rack.
-10. Make glaze. Mix powdered sugar, butter, and enough lemon juice to make a thin but hearty glaze. Dip cookie tops into glaze and let dry.
+10. Make glaze by mixing powdered sugar, butter, and enough lemon juice to make a thin but hearty glaze. Dip cookie tops into glaze and let dry.
 
 ## Source
 
