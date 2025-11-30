@@ -10,6 +10,9 @@ categories:
   - category:
     - desserts
     - quick breads
+  - category:
+    - holiday
+    - wedding
 ---
 
 ## Ingredients
