@@ -2,7 +2,7 @@
 layout: post
 title: "Lemon Drop Cookies"
 author: "Jack Thomas"
-slug: sugar-cookies
+slug: lemon-drop-cookies
 home_exclude: exclude
 categories:
   - category:
