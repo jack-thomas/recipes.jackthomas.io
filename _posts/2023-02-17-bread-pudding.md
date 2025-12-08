@@ -43,7 +43,7 @@ categories:
 
 ## Directions
 
-1. Heat broiler. Place bread in 15x10x1 pan. Boil 4 to 6 inches from hea 1-2 minutes or until light brown - turning once.
+1. Heat broiler. Place bread in 15x10x1 pan. Boil 4 to 6 inches from heat 1-2 minutes or until light brown - turning once.
 2. Heat oven to 350 F. Grease 2 quart glass baking dish. In large bowl, whisk together all remaining bread mixture ingredients, except raisins and apples. Stir in toasted bread and raisins. Let stand 3-5 minutes or until liquid is absorbed, stirring occasionally. Add apples, stir gently to mix, and spoon into baking dish.
 3. In large bowl, whisk eggs until mixed. Add all remaining custard ingredients, except nutmeg. Add 3/4 teaspoon nutmeg. Whisk custard until blended. Pour over bread mixture, making sure custard evenly coats. Sprinkle with remaining 1/4 teaspoon nutmeg.
 4. Bake 55-65 minutes or until top is puffed and knife inserted comes out almost clean.
