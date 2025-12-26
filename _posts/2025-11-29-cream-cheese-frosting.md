@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Carrot Cake"
+title: "Cream Cheese Frosting"
 author: "Jack Thomas"
-slug: carrot-cake
+slug: cream-cheese-forsting
 home_exclude: exclude
 categories:
   - category:
