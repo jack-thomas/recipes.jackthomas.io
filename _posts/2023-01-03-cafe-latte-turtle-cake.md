@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Café Latte's Turtle Cake"
+title: "Turtle Cake (Café Latte)"
 author: "Jack Thomas"
 slug: cafe-latte-turtle-cake
 categories:
