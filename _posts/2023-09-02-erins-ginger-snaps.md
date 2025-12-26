@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erin's Ginger Snaps"
+title: "Ginger Snaps (Erin's)"
 author: "Jack Thomas"
 slug: erins-ginger-snaps
 categories:
