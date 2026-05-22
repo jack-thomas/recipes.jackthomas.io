@@ -19,7 +19,7 @@ categories:
 
 - 4 large bananas (mashed)
 - 2 cups sugar
-- 1/2 cup butter
+- 1/2 cup butter (softened)
 - 2 eggs
 - 1 cup buttermilk (1.5 tablespoons lemon juice, 1 cup milk)
 - 1 teaspoon baking soda
