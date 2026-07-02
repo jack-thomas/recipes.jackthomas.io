@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-03
 title: "Chocolate Chip Cookies"
 author: "Jack Thomas"
 slug: chocolate-chip-cookies
@@ -23,7 +24,7 @@ categories:
   - Mom only uses 1 1/2 cup, but I like cakier cookies
 - 1 teaspoon salt
 - 3/4 teaspoon baking soda
-- 1 (12 oz.) package semi-sweet chocolate chips (1 cup)
+- 1 (12 oz.) package semi-sweet chocolate chips
 
 ## Directions
 
