@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-02
 title: "Pizza Snacks"
 author: "Jack Thomas"
 slug: pizza-snacks
