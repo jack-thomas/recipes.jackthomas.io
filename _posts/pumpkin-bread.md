@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-03
 title: "Pumpkin Bread"
 author: "Jack Thomas"
 slug: pumpkin-bread

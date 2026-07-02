@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-03
 title: "Cherry Pie"
 author: "Jack Thomas"
 slug: cherry-pie

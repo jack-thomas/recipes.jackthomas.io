@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-03
 title: "Zucchini Bread"
 author: "Jack Thomas"
 slug: zucchini-bread

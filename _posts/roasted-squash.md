@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-03
 title: "Roasted Squash"
 author: "Jack Thomas"
 slug: roasted-squash

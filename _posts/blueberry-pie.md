@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-03
 title: "Blueberry Pie"
 author: "Jack Thomas"
 slug: blueberry-pie

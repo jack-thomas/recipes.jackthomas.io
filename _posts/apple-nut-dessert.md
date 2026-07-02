@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-03
 title: "Apple Nut Dessert"
 author: "Jack Thomas"
 slug: apple-nut-dessert

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-03
 title: "Chocolate Raspberry Torte"
 author: "Jack Thomas"
 slug: chocolate-raspberry-torte
