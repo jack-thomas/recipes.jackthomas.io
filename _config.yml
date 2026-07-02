@@ -7,6 +7,12 @@ plugins:
   - jekyll-feed
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 header_pages:
   - about.md
   - all.md
