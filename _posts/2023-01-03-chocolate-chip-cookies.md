@@ -23,7 +23,7 @@ categories:
   - Mom only uses 1 1/2 cup, but I like cakier cookies
 - 1 teaspoon salt
 - 3/4 teaspoon baking soda
-- 1 (6 oz.) package semi-sweet chocolate chips (1 cup)
+- 1 (12 oz.) package semi-sweet chocolate chips (1 cup)
 
 ## Directions
 
@@ -35,3 +35,9 @@ categories:
 ## Source
 
 [Crisco](https://crisco.com/recipes/ultimate-chocolate-chip-cookies/) > Jodi Thomas
+
+## Comments
+
+#### 2026-06-28
+
+I updated this recipe to use a whole 12oz bag of chocolate chips. I know Mom doesn't measure the chocolate chips, and she adds butterscotch chips, but I think that was the right amount for me.
