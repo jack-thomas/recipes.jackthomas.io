@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-01-02
 title: "Apple Crisp"
 author: "Jack Thomas"
 slug: apple-crisp
