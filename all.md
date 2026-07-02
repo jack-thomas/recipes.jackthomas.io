@@ -10,7 +10,7 @@ permalink: /all/
 
 <div class="home">
 
-  {%- assign posts = site.posts | sort: 'title' -%}
+  {%- assign posts = site.recipes | sort: 'title' -%}
   
   <ul class="post-list">
     {%- for post in posts -%}

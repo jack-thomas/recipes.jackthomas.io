@@ -1,0 +1,26 @@
+---
+layout: post
+date: 2025-01-01
+title: "Cranberry Syrup"
+author: "Casey Wharton"
+slug: cranberry-syrup
+home_exclude: exclude
+categories:
+  - category:
+    - drinks
+    - drink components
+---
+
+## Ingredients
+
+- 1 cup water
+- 1 cup whole cranberries
+- 1 cup unsweetened cranberry juice
+
+## Directions
+
+Simmer.
+
+## Sources
+
+Jack Thomas and Casey Wharton

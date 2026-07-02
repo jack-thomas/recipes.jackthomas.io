@@ -1,0 +1,55 @@
+---
+layout: post
+date: 2024-05-27
+title: "Pancakes"
+author: "Jack Thomas"
+slug: pancakes
+home_exclude: exclude
+categories:
+  - category:
+    - breakfast
+---
+
+## Ingredients
+
+- 1 cup flour$$^{1}$$
+- 2 teaspoons baking powder
+- 1/2 Tablespoon sugar$$^{2}$$
+- 1/4 teaspoon salt
+- 1/2 Tablespoon malted milk powder (optional)
+- 1/2 cup milk$$^{3}$$
+- 1 egg
+- 1/2 Tablespoon vanilla extract
+- 1 1/2 Tablespoons butter, melted
+- Optional mix-ins, such as blueberries and chocolate chips
+
+## Directions
+
+Combine flour, baking powder, sugar, salt, and malted milk powder in a large bowl. Make a well in the center, add all remaining ingredients, and mix until mostly smooth.
+
+## Notes
+
+- $$^{1}$$: All purpose and self-rising both work here.
+- $$^{2}$$: Alternatives to white sugar include:
+    - 1 to 2 Tablespoon(s) honey (which you can heat up in the microwave for 15-20 seconds if it's not liquid enough)
+    - 1/2 to 1 Tablespoon maple syrup
+- $$^{3}$$: For a thinner, buttermilk pancake, substitute the 1 cup milk for 2 cups buttermilk plus 1/3 cup whole milk. This is basically the recipe in *Carlson, Kristi (2016) Eat Like a Gilmore*.
+
+## Source
+
+Rita Brown > Jack Thomas (with modifications)
+
+## Comments
+
+<!---
+#### 2025-11-29 (Jack)
+
+As I migrate this from Obsidian, I'm going to note a few additional possible alterations that I haven't yet tried:
+
+- To make chocolate pancakes, substitute 1/4 cup of flour for cocoa powder, and mix in chocolate chips.
+- To make matcha pancakes, add 1 Tablespoon of Matcha powder.
+--->
+
+#### 2024-05-27 (Jack)
+
+The base recipe (self-rising flour, baking powder, eggs, milk, and mini chocolate chips) is from Rita Brown in *Hopkinsville BPW (2007) Cooking for a Cure* (p. 153). I then added salt, sugar, and butter based on [a recipe from All Recipes](https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/) and a recipe in *Carlson, Kristi (2016) Eat Like a Gilmore*. I also added malted milk powder based on [this article from Kitchn](https://www.thekitchn.com/malted-milk-diner-style-pancakes-22943808) and vanilla based on some other recommendation. Finally, I added alternative sweeteners, including honey based on a [recipe from Nielsen Massey](https://nielsenmassey.com/betteryourbake/recipes/honey-vanilla-pancakes/) and maple syrup based on a [recipe from Taste of Home](https://www.tasteofhome.com/recipes/maple-pancakes/).

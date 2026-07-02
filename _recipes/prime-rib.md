@@ -1,0 +1,37 @@
+---
+layout: post
+date: 2025-12-25
+title: "Prime Rib"
+author: "Jack Thomas"
+slug: prime-rib
+categories:
+  - category:
+    - entrees
+    - beef entrees
+  - category:
+    - holiday
+    - christmas
+---
+
+Roast (fat side up, in cooking bag with seasonings and 1 cup water) at 250F for...
+
+- 3-4 pounds, 2.5 hours
+- 5-6 pounds, 3 hours
+- 7-8 pounds, 3.5 hours
+- 9-11 pounds, 4 hours
+
+Check temperature of meat 1 hour before suggested completion time. Target temperatures are as follows.
+
+- Rare, 120F
+- Medium Rare, 130F
+- Medium, 140F
+
+## Source
+
+[Greg's Meats (Hampton, MN)](https://gregsmeats.com/products) provided these instructions with their prime rib, but the [YouTube video](https://youtu.be/0Y_pi4sFir4) of Greg's Twin Cities Live appearance is also quite helpful.
+
+## Comments
+
+#### 2025-12-25 (Jack)
+
+Mike got a 12.2-pound prime rib this year, and it only took 3 hours to get to 120F (where we pulled it). It was cooked perfectly to our liking, but it makes me believe that the suggested cooking times are targeting a much further doneness than we want.

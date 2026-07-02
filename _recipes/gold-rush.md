@@ -1,0 +1,27 @@
+---
+layout: post
+date: 2024-11-20
+title: "Gold Rush"
+author: "Jack Thomas"
+slug: gold-rush
+home_exclude: exclude
+categories:
+  - category:
+    - drinks
+    - cocktails
+    - whiskey cocktails
+---
+
+## Ingredients
+
+- 2 ounces whiskey, preferably Angel's Envy
+- 1 ounce lemon juice
+- 1 ounce [honey syrup](/honey-syrup.html)
+
+## Directions
+
+Combine with ice. Shake. Strain. (Or just build in the glass and stir.)
+
+## Sources
+
+Classic Cocktail

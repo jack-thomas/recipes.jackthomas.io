@@ -1,0 +1,17 @@
+---
+layout: post
+date: 2023-01-22
+title: "Bacon (400F, 22m)"
+author: "Jack Thomas"
+slug: bacon
+home_exclude: exclude
+categories:
+  - category:
+    - ingredients
+---
+
+Put bacon strips on a rimmed sheet pan lined with parchment paper. Bake them in a preheated oven at 400F for about 22 minutes.
+
+## Source
+
+[Food52](https://food52.com/blog/23779-how-to-cook-bacon-best-way-make-bacon-in-the-oven-skillet)
