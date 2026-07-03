@@ -4,10 +4,6 @@ title: All Recipes
 permalink: /all/
 ---
 
-<!---
-    Copied from home, except with filter revmoed!
---->
-
 <div class="home">
 
   {%- assign posts = site.recipes | sort: 'title' -%}
