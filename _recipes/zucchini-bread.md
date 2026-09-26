@@ -30,10 +30,23 @@ categories:
 - 1/2 cup nuts (optional)
 - 2 tsp vanilla
 
-## Directions
+## Clarified Directions
+
+1. Grate zucchini, and press out some of the moisture.
+2. Sift together flour, cinnamon, baking soda, baking powder, and salt.
+3. Mix eggs, sugar, and oil. Add flour mixture. Stir in zucchini, nuts, and vanilla.
+4. Divide between two greased loaf pans. Bake at 325 for 1 hour.
+
+## Original Directions
 
 Sift flour, cinnamon, baking soda, baking powder, and salt together. Mix eggs, sugar, and oil. Add flour mixture. Stir in zucchini, nuts, and vanilla. Bake at 325 for 1 hour. Makes 2 loaves.
 
 ## Source
 
 Bernida Belcher in Hopkinsville BPW's *Cooking for a Cure* (pp. 158-159) (though there's a very similar recipe on [Cooks.com](http://www.cooks.com/recipe/5d7s24iw/zucchini-bread.html))
+
+## Comments
+
+#### 2026-09-26
+
+Added clarified directions since we weren't sure whether to squeeze any moisture out of the zucchini.
